@@ -1,5 +1,5 @@
-h1 {
-	color: orangered;
+#PEALKIRI {
+	color: limegreen;
 
 }
 
@@ -15,3 +15,23 @@ p {
 
 
 
+button {
+	  display: block;
+	  color: black;
+	  background: mediumpurple;
+}
+
+
+#Mäng{
+
+	color:skyblue;
+}
+#number2{
+	color: blue;
+	background: red;
+}
+
+#number{
+	color: green;
+	background: white;
+}
